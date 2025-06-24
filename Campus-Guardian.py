@@ -1,3 +1,11 @@
+#Campus Guardian: A Face Recognition Based Attendance System
+# A Python script that uses face recognition to manage attendance and security in a campus environment.
+# It allows adding and deleting faces, assigning cameras to roles, tracking individuals, and managing access to restricted areas.
+# Requirements include OpenCV, face_recognition, pandas, pyttsx3, bcrypt, and getpass for secure password management.
+# Import necessary libraries
+#Created by: Boranno Golder
+
+
 import cv2
 import face_recognition
 import os

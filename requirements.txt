@@ -1,0 +1,6 @@
+opencv-python
+face-recognition
+pandas
+openpyxl
+pyttsx3
+bcrypt
