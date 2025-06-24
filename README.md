@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and bug reports:
 - **Issues**: [GitHub Issues](https://github.com/boranno/campus-guardian/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/boranno/campus-guardian/discussions)
-- **Email**: your-email@domain.com
+- **Email**: borannogolder@gmail.com
 
 ## 🔄 Version History
 
